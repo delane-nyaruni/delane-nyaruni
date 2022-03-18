@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delane-codes
-- 👀 I’m interested in web dev & penetration testing & linux 
-- 🌱 I’m proficient in Java, Javascript, C,
+- 👀 I’m interested in mobile, web dev, penetration testing & linux 
+- 🌱 I’m proficient in Java, Javascript, C, PHP
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me @delane_codes on Twitter, Facebook, Dev.to, Instagram, LinkedIn
 
