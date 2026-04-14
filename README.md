@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Delane Nyaruni  
 - I develop 📱 mobile apps, 🖥️ desktop apps, 🌐 web apps & conduct 🛡️ cybersecurity analysis with parrot security
-- I’m proficient in 🐍 Python, Javascript, TypeScript, React, PineScript, MQL5, Java, Kotlin, C, SQL
+- I’m proficient in 🐍 Python(Django,Flask), Javascript, TypeScript, React, PineScript, MQL5, Java(Sevlets&JSP, SpringBoot), Kotlin, C, SQL
 - 📫 How to reach me @delane_nyaruni on https://delane-nyaruni.github.io, X, Telegram, Dev.to
 
   
