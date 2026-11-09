@@ -35,4 +35,4 @@ Pine Script (TradingView) · MQL5 (MetaTrader)
 
 ---
 
-*NinesoftLabs · Building intelligent solutions.*
+*NinesoftLabs · intelligent solutions.*
