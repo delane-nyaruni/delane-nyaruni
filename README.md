@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Systems Architect
 
-I create robust software solutions across **mobile, desktop, and web platforms**, integrating scalable backend systems, databases, secure APIs, and intelligent automated systems.
+I create robust software solutions across **mobile, desktop, and web platforms**, integrating scalable backend systems, databases, secure APIs, and intelligent robot automated systems.
 
 ### 🛠️ Technical Expertise
 
