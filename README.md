@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Delane Nyaruni
 
-### 👨‍💻 Software Engineer | Backend Systems Architect
+### Software Engineer | Backend Systems Architect
 
-I create robust software solutions across **mobile, desktop, and web platforms**, integrating scalable backend systems, databases, secure APIs, and intelligent robotic automation systems.
+I create fullstack robust software solutions across **mobile, desktop, and web platforms**, integrating scalable backend systems, databases, secure APIs, and intelligent robotic automation systems.
 
 ### 🛠️ Technical Expertise
 
