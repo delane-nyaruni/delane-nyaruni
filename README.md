@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Delane Nyaruni
 
-### 👨‍💻 Software Engineer | Backend Systems Architect
+### Software Engineer | Backend Systems Architect
 
 I create robust software solutions across **mobile, desktop, and web platforms**, integrating scalable backend systems, databases, secure APIs, and intelligent automated systems.
 
@@ -18,13 +18,13 @@ I create robust software solutions across **mobile, desktop, and web platforms**
 ### 💻 Languages & Technologies
 
 **Programming Languages:**  
-🐍 Python · JavaScript · TypeScript · Java · Kotlin · C · SQL · PHP · Bash
+Python · JavaScript · TypeScript · Java · Kotlin · C · SQL · PHP · Bash
 
 **Frameworks & Development Tools:**  
 Django · React · Node.js · Flask · Bootstrap · Git · PostgreSQL · MySQL · MongoDB · WordPress
 
 **Financial & Algorithmic Scripting:**  
-📈 Pine Script (TradingView) · MQL5 (MetaTrader)
+Pine Script (TradingView) · MQL5 (MetaTrader)
 
 ### 🌐 Connect With Me
 
