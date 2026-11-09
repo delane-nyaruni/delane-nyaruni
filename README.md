@@ -25,13 +25,6 @@ I architect robust software solutions across **mobile, desktop, and web platform
 **Financial & Algorithmic Scripting:**  
 📈 Pine Script (TradingView) · MQL5 (MetaTrader)
 
-### 📊 GitHub Metrics & Repository Insights
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=delane-nyaruni&show_icons=true&hide_title=true" alt="Delane's GitHub Statistics" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delane-nyaruni&layout=compact&langs_count=8" alt="Delane's Most Used Languages" height="180" />
-</p>
-
 ### 🌐 Connect With Me
 
 - **X (Twitter):** [@delane_nyaruni](https://x.com/delane_nyaruni)
